@@ -6,9 +6,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+node_modules
 .env
 .vscode
-.eslintcache
 
 .idea
 .DS_Store
@@ -17,7 +17,6 @@ lerna-debug.log*
 *.njsproj
 *.sln
 *.sw?
+.eslintcache
 
-node_modules
-package-lock.json
-yarn.lock
+CHANGELOG.md
