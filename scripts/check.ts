@@ -1,6 +1,6 @@
-import subscription from '../src/subscription';
+import subsConfig from '../src/config';
 import { checkSubscription } from '@gkd-kit/tools';
 
-checkSubscription(subscription);
+checkSubscription(subsConfig);
 
-export default subscription;
+export default subsConfig;
